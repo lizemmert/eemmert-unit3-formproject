@@ -96,6 +96,9 @@ label {
 
 .desc {
   margin-top: 10px;
+  text-align: left;
+  margin-bottom: 10px;
+  color: #aaa;
 }
 
 .dark {
